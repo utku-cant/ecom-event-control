@@ -1,4 +1,4 @@
-# 📊 Meta E-Ticaret Event Takip Scripti
+# Meta E-Commerce Event Control Alert
 
 Bu script, Google Apps Script kullanılarak Google Sheets üzerinden Meta reklam hesaplarında gerçekleşen e-ticaret eventlerini kontrol eder ve günlük karşılaştırmalı bir e-posta raporu gönderir.
 
