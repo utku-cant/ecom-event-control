@@ -51,7 +51,7 @@ MailApp.sendEmail({ ... })
 - Alıcı e-posta adresi `EMAIL_RECEIVER` sabitinde tanımlanmalıdır.
 - Konu ve içerik otomatik oluşturulur.
 
-## ⚙Kurulum
+## Kurulum
 
 1. Google Sheet oluşturun ve `AdAccounts` adında bir sayfa ekleyin.
 2. İlk satıra `Account Name` ve `Ad Account ID` başlıklarını yazın.
